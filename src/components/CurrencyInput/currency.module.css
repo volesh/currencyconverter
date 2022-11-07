@@ -1,0 +1,28 @@
+.group{
+    box-sizing: border-box;
+    padding: 10px;
+    background: #45f3ff;
+    width: 280px;
+    margin: 0 auto 20px;
+    display: flex;
+    border-radius: 15px;
+}
+input,select{
+    background: none;
+    border:0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #28292d;
+
+}
+
+select{
+    border-radius: 15px;
+}
+
+input{
+    padding-left: 10px;
+}
+select{
+    padding: 15px;
+}
