@@ -74,7 +74,7 @@ function App() {
                         amount={amount2}
                         currency={currency2} />
                 </div>:
-                <div className={css.innerBox}></div>
+                <div className={css.innerBox}>...Loading</div>
             }
         </div>
   );
