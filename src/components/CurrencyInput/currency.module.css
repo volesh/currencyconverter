@@ -6,24 +6,24 @@
     margin: 0 auto 20px;
     display: flex;
     border-radius: 15px;
+    color: #28292d;
 }
 input,select{
     background: none;
     border:0;
-    outline: none;
     font-size: 14px;
     font-weight: 600;
-    color: #28292d;
 
 }
 
 select{
     border-radius: 15px;
     cursor: pointer;
-    padding: 15px;
+
 }
 
 input{
-    padding-left: 10px;
+    outline: none;
+    padding: 10px;
 }
 
